@@ -11,3 +11,4 @@ The integer list is :
                                            void computeCircle(float& a, float& c, float r)
 This function calculate the area and circumference c of the circle with given radius r and assign it to a and c respectively. Write a main() program to exercise this function.
 6. Write a Python function that takes a number as a parameter and check the number is prime or not.
+7. Write a Python function to multiply all the numbers in a list.
